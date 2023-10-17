@@ -1,5 +1,9 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <AppHeader />
+    <GameApp />
   </div>
 </template>
+<style>
+  @import 'assets/styles/index.scss';
+</style>
